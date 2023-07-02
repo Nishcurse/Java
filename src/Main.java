@@ -1,9 +1,11 @@
-
 public class Main {
-    public static void main(String[] args) {
-        System.out.printf("Hello and welcome!");
-        for (int i = 1; i <= 5; i++);
-            System.out.println("i = " + i);
-        }
+//    Yeh Function hai inbuilt
+    public static void main (String[] args) {
+        System.out.println("Hello World");
+        int a = 12;
+        int b= 65;
+        System.out.println(a+b);
+
     }
 }
+
