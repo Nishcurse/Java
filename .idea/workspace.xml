@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7625f83d-b078-4c02-a5a0-03f8c7a86aac" name="Changes" comment="Fucked up">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CH04_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CbsePercentageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resultingDatatype.java" afterDir="false" />
+    <list default="true" id="7625f83d-b078-4c02-a5a0-03f8c7a86aac" name="Changes" comment="Progress">
+      <change afterPath="$PROJECT_DIR$/src/Practice_Sheet02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resultingDatatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resultingDatatype.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +46,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.resultingDatatype">
-    <configuration name="CH04_Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH04_Literals" />
+  <component name="RunManager" selected="Application.StringMethods">
+    <configuration name="Practice_Sheet02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Sheet02" />
       <module name="newProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CbsePercentageCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CbsePercentageCalculator" />
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringMethods" />
       <module name="newProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ch05_OperatorsAndEspressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch05_OperatorsAndEspressions" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings" />
       <module name="newProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.Practice_Sheet02" />
         <item itemvalue="Application.resultingDatatype" />
         <item itemvalue="Application.operatos" />
-        <item itemvalue="Application.Ch05_OperatorsAndEspressions" />
-        <item itemvalue="Application.CH04_Literals" />
-        <item itemvalue="Application.CbsePercentageCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +107,9 @@
       <workItem from="1688405005365" duration="4513000" />
       <workItem from="1688489510517" duration="3291000" />
       <workItem from="1688547464782" duration="4509000" />
-      <workItem from="1688625842248" duration="1141000" />
+      <workItem from="1688625842248" duration="3088000" />
+      <workItem from="1688640006220" duration="1668000" />
+      <workItem from="1688660076062" duration="10548000" />
     </task>
     <task id="LOCAL-00001" summary="Fucked up">
       <created>1688305906966</created>
@@ -127,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688324243183</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Progress">
+      <created>1688627053743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688627053743</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Progress">
+      <created>1688627067434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688627067434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fucked up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fucked up" />
+    <MESSAGE value="Progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Progress" />
   </component>
 </project>
