@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7625f83d-b078-4c02-a5a0-03f8c7a86aac" name="Changes" comment="Progress">
-      <change afterPath="$PROJECT_DIR$/src/Practice_Sheet02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resultingDatatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resultingDatatype.java" afterDir="false" />
-    </list>
+    <list default="true" id="7625f83d-b078-4c02-a5a0-03f8c7a86aac" name="Changes" comment="Progress 8-july-2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +104,7 @@
       <workItem from="1688547464782" duration="4509000" />
       <workItem from="1688625842248" duration="3088000" />
       <workItem from="1688640006220" duration="1668000" />
-      <workItem from="1688660076062" duration="10548000" />
+      <workItem from="1688660076062" duration="10962000" />
     </task>
     <task id="LOCAL-00001" summary="Fucked up">
       <created>1688305906966</created>
@@ -139,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688627067434</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Progress 8-july-2023">
+      <created>1688844954058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688844954058</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fucked up" />
     <MESSAGE value="Progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="Progress" />
+    <MESSAGE value="Progress 8-july-2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Progress 8-july-2023" />
   </component>
 </project>
