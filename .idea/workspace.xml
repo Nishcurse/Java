@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7625f83d-b078-4c02-a5a0-03f8c7a86aac" name="Changes" comment="New Progress &#10;// RPS Game DONE">
+      <change afterPath="$PROJECT_DIR$/src/While_loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/break_and_continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/for_loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multidimensional_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratice_set_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratice_set_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicalOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rock_paper_scissor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rock_paper_scissor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,41 +54,41 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Adarsh/IdeaProjects/Java/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.rock_paper_scissor">
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringMethods" />
+  <component name="RunManager" selected="Application.pratice_set_6">
+    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays" />
       <module name="newProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="While_loops" />
+    <configuration name="multidimensional_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multidimensional_Arrays" />
       <module name="newProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="logicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logicalOperators" />
+    <configuration name="practice_set_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_set_5" />
       <module name="newProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prtc_set_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prtc_set_4" />
+    <configuration name="pratice_set_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratice_set_5" />
       <module name="newProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rock_paper_scissor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rock_paper_scissor" />
+    <configuration name="pratice_set_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratice_set_6" />
       <module name="newProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.rock_paper_scissor" />
-        <item itemvalue="Application.While_loops" />
-        <item itemvalue="Application.prtc_set_4" />
-        <item itemvalue="Application.logicalOperators" />
-        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.pratice_set_6" />
+        <item itemvalue="Application.multidimensional_Arrays" />
+        <item itemvalue="Application.arrays" />
+        <item itemvalue="Application.pratice_set_5" />
+        <item itemvalue="Application.practice_set_5" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +134,15 @@
       <workItem from="1689013396095" duration="113000" />
       <workItem from="1689046014772" duration="5000" />
       <workItem from="1689142479657" duration="873000" />
+      <workItem from="1689189095123" duration="171000" />
+      <workItem from="1689262536375" duration="907000" />
+      <workItem from="1689266888136" duration="10332000" />
+      <workItem from="1689359739873" duration="3797000" />
+      <workItem from="1689401856636" duration="877000" />
+      <workItem from="1689412315460" duration="3659000" />
+      <workItem from="1689439222953" duration="7419000" />
+      <workItem from="1689450455439" duration="1808000" />
+      <workItem from="1689501372564" duration="3990000" />
     </task>
     <task id="LOCAL-00001" summary="Fucked up">
       <created>1688305906966</created>
@@ -188,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689012779397</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New Progress &#10;// RPS Game DONE">
+      <option name="closed" value="true" />
+      <created>1689189256393</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689189256393</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
