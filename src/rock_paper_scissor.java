@@ -50,15 +50,15 @@ public class rock_paper_scissor {
             System.out.println("Kabutar - Rock");
             System.out.println("Stone's Grave is Covered by Paper Right here");
             System.out.println(You + " win");
-            a = ++a;
-            b = b;
+            a = a;
+            b = ++b;
         } else if (input1 == 0 && input2 == 2) {
             System.out.println(You+"-Rock");
             System.out.println("Kabutar - Scissor");
             System.out.println("Tuth gyi Kenchi");
-            System.out.println("Kabutar wins");
-            a = ++a;
-            b = b;
+            System.out.println(You + " wins");
+            a = a;
+            b = ++b;
         } else if (input1 == 2 && input2 == 0 ){
             System.out.println(You+"-Scissor");
             System.out.println("Kabutar - Rock");
