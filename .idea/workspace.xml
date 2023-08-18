@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7625f83d-b078-4c02-a5a0-03f8c7a86aac" name="Changes" comment="New Progress &#10;// RPS Game DONE">
-      <change afterPath="$PROJECT_DIR$/src/Abstract_classAndMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorsInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorsinInheritancs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Default_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PackagesInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolymorphismInInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_set_abstractInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variable_argument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accesModifier$Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_methode_dispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guessTheNumberOops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inhertiance_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methode_overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methode_overriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/online_library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/our_ownJavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism_interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_set_accesmodifiernall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/praticeSet7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/praticeSet_Oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pratice_set_modifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_superKeywords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pratice_set_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratice_set_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rock_paper_scissor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rock_paper_scissor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,6 +187,10 @@
       <workItem from="1690890014686" duration="1566000" />
       <workItem from="1690957068739" duration="748000" />
       <workItem from="1690979563476" duration="741000" />
+      <workItem from="1690981761766" duration="117000" />
+      <workItem from="1691900359782" duration="884000" />
+      <workItem from="1691996475513" duration="612000" />
+      <workItem from="1692014871656" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Fucked up">
       <created>1688305906966</created>
@@ -291,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689537009959</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New Progress &#10;// RPS Game DONE">
+      <option name="closed" value="true" />
+      <created>1690981834056</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690981834056</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
