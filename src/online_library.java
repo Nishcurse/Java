@@ -6,8 +6,7 @@ interface liberarayFomrat {
     void add_books(String...addbooks);
     void issue_books();
     void  returnbook();
-        }
-class liberary implements liberarayFomrat{
+        }class liberary implements liberarayFomrat{
     int id_number;
     String Customer_name;
     ArrayList<String> l1 = new ArrayList<>();

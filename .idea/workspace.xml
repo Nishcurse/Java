@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7625f83d-b078-4c02-a5a0-03f8c7a86aac" name="Changes" comment="New Progress &#10;// RPS Game DONE">
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_Creating_a_java_Package.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +34,9 @@
     <setting file="file://$PROJECT_DIR$/src/online_library.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/pratice_set_6.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2S1E7CzahQlJiGwFZXrcVrIGZfP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,7 +63,21 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PackagesInJava">
+  <component name="RunManager" selected="Application.AccessModifiers">
+    <configuration name="AccessModifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccessModifiers" />
+      <module name="newProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_Creating_a_java_Package" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C01_Creating_a_java_Package" />
+      <module name="newProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PackagesInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PackagesInJava" />
       <module name="newProgram" />
@@ -73,20 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="online_library (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="online_library" />
-      <module name="newProgram" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="online_library (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="online_library" />
-      <module name="newProgram" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="online_library (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="online_library" />
       <module name="newProgram" />
@@ -96,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccessModifiers" />
+        <item itemvalue="Application.C01_Creating_a_java_Package" />
         <item itemvalue="Application.PackagesInJava" />
         <item itemvalue="Application.Practice_set_abstractInterface" />
         <item itemvalue="Application.online_library (5)" />
-        <item itemvalue="Application.online_library (3)" />
-        <item itemvalue="Application.online_library (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +196,12 @@
       <workItem from="1691900359782" duration="884000" />
       <workItem from="1691996475513" duration="612000" />
       <workItem from="1692014871656" duration="35000" />
+      <workItem from="1692366177647" duration="514000" />
+      <workItem from="1692380977562" duration="3982000" />
+      <workItem from="1692444996323" duration="1485000" />
+      <workItem from="1692462900956" duration="32000" />
+      <workItem from="1692490401837" duration="2061000" />
+      <workItem from="1692508660916" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="Fucked up">
       <created>1688305906966</created>
@@ -274,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690981834056</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="New Progress &#10;// RPS Game DONE">
+      <option name="closed" value="true" />
+      <created>1692366228482</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692366228482</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
